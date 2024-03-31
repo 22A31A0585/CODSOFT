@@ -20,12 +20,12 @@ shadow to the title */
     text-align: center;
     color: rgb(255, 246, 237);
     text-shadow: 5px 5px 10px rgb(255, 157, 157);
-    font-size: 6vh;
+    font-size:300%;
     }
   /* Setting width and display
 type of image */
     img {
-    display: inline-block;
+    display:block;
     width: 100%;
         }
    /* Setting font color and font
@@ -41,9 +41,10 @@ type of image */
           /* Styling the content of the page like-
           padding, font-size, font color etc.*/
           div#tribute-data {
-              background-color:#f4a988;
+              background-color:#acf4f9;
               box-shadow: 20px 20px 20px #b3aca9;
               font-family: Georgia;
+              font-size:120%;
               padding: 25px 25px;
               margin: 11px;
               margin-top: 50px;

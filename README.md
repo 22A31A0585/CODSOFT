@@ -1,2 +1,2 @@
 # CODSOFT
-Cosoft Internship
+Codsoft Internship
